@@ -23,6 +23,7 @@ void main(void)
 	cout << "Улюблене місто: Львів " << endl;
 	cout << "пам'ятки Львова " << endl;
 	cout << "Високий замок" << endl;
+	cout << "Театр опери та балету" << endl;
 	
 
 	system ("pause");
