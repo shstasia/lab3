@@ -24,6 +24,7 @@ void main(void)
 	cout << "пам'ятки Львова " << endl;
 	cout << "Високий замок" << endl;
 	cout << "Театр опери та балету" << endl;
+	cout << "дворик загублених іграшок" << endl;
 	
 
 	system ("pause");
