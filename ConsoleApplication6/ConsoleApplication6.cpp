@@ -22,7 +22,10 @@ void main(void)
 	cout << "Улюблений колір: Голубий, рожевий " << endl;
 	cout << "Улюблене місто: Львів " << endl;
 	cout << "пам'ятки Львова " << endl;
-	system("pause");
+	cout << "Високий замок" << endl;
+	
+
+	system ("pause");
 
 }
 
