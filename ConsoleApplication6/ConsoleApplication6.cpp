@@ -34,6 +34,8 @@ void main(void)
 	cout << "копальня" << endl;
 	cout << "дворець Потоцьких" << endl;
 	cout << "місто мрії" << endl;
+	cout << "випити смачну каву" << endl;
+	cout << "подивитись як добувають каву" << endl;
 	system("pause");
 
 }
