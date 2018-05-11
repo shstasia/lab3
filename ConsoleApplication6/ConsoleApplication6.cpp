@@ -39,7 +39,7 @@ void main(void)
 	cout << "джинси та рубашка" << endl;
 	cout << "плаття та піджак" << endl;
 	cout << "класичні шорти та футболка" << endl;
-	
+	cout << "бомж" << endl;
 	system("pause");
 
 }
