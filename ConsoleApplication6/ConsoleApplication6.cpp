@@ -26,6 +26,9 @@ void main(void)
 	cout << "Серіал 4: Кости " << endl;
 	cout << "Серіал 5: Касл " << endl;
 	cout << "немає часу дивитись ще серіали" << endl;
+	cout << "дивлюсь майже рік" << endl;
+	cout << "підсадила мама" << endl;
+	cout << "цікавий сюжет" << endl;
 	system("pause");
 
 }
