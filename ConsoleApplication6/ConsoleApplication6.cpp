@@ -53,6 +53,7 @@ void main(void)
 	cout << "подивитись як добувають каву" << endl;
 	cout << "хочу там жити" << endl;
 	system("pause");
+	cout << "хочу ще раз побувати у цьому місці" << endl;
 
 }
 
