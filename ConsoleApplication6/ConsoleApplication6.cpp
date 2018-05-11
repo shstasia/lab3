@@ -33,7 +33,7 @@ void main(void)
 	cout << "улюблені місця: " << endl;
 	cout << "копальня" << endl;
 	cout << "дворець Потоцьких" << endl;
-
+	cout << "місто мрії" << endl;
 	system("pause");
 
 }
