@@ -36,6 +36,7 @@ void main(void)
 	cout << "місто мрії" << endl;
 	cout << "випити смачну каву" << endl;
 	cout << "подивитись як добувають каву" << endl;
+	cout << "хочу там жити" << endl;
 	system("pause");
 
 }
