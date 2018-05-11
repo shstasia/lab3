@@ -25,6 +25,7 @@ void main(void)
 	cout << "улюблен≥ м≥сц€: " << endl;
 	cout << "копальн€" << endl;
 	cout << "випити смачну каву" << endl;
+	cout << "подивитись €к добувають каву" << endl;
 	system("pause");
 
 }
