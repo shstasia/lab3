@@ -86,6 +86,7 @@ void main(void)
 	cout << "влітку поповню свій список" << endl;
 
 	cout
+		cout2
 	system("pause");
 	
 
