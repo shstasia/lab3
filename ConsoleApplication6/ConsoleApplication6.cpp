@@ -85,6 +85,7 @@ void main(void)
 	cout << "є ше багато цікавих, але навчання важливіше" << endl;
 	cout << "влітку поповню свій список" << endl;
 
+	cout
 	system("pause");
 	
 
