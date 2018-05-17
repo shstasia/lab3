@@ -88,6 +88,7 @@ void main(void)
 	cout
 		cout2
 	cout3
+		commit1
 	system("pause");
 	
 
