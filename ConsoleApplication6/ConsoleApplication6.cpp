@@ -90,6 +90,7 @@ void main(void)
 	cout3
 		commit1
 		commit2
+		commit3
 	system("pause");
 	
 
